@@ -13,9 +13,6 @@
 
 - ⚡ Fun fact about me, **I'm a avid traveler and amateur photographer**
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crbelhekar&layout=compact&hide=html" alt="crbelhekar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crbelhekar&show_icons=true" alt="crbelhekar" /></p>
 
 <p align="center">
 <a href="https://twitter.com/crbelhekar_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="crbelhekar_" height="30" width="30" /></a>
