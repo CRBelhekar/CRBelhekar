@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crbelhekar" alt="crbelhekar" /> </p>
 
-- 🌱 I’m currently building **AgriBuzz**. To read more about [AgriBuzz](https://www.notion.so/Building-AgriBuzz-19738682a15543108ef58c0d352f0b30)
+- 🌱 I’m currently building **OneAgri**. To read more about [OneAgri](https://www.oneagri.in/)
 
 - 👨‍💻 All of my projects are available at [github.com/CRBelhekar](github.com/CRBelhekar)
 
